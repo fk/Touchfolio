@@ -1,0 +1,839 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Touchfolio v0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-10-15 09:22:48+0000\n"
+"Last-Translator: Florian Kissling <florian.kissling@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ dsframework
+msgid "The page you were looking for cannot be found."
+msgstr "Die angeforderte Seite konnte nicht gefunden werden."
+
+#: admin/admin-functions.php:27
+#@ dsframework
+msgid "Thank you for using <a href=\"http://dimsemenov.com/themes/touchfolio/\">Touchfolio</a> by <a href=\"http://dimsemenov.com/\">Dmitry Semenov</a>. <a href=\"http://support.dimsemenov.com/forums/159023-touchfolio\">Leave feedback</a> or subscribe for news about theme via <a href=\"http://dimsemenov.com/subscribe.html\">newsletter</a> or <a href=\"http://twitter.com/dimsemenov\">Twitter</a>."
+msgstr "Danke für die Benutzung von <a href=\"http://dimsemenov.com/themes/touchfolio/\">Touchfolio</a> von <a href=\"http://dimsemenov.com/\">Dmitry Semenov</a>. <a href=\"http://support.dimsemenov.com/forums/159023-touchfolio\">Feedback hinterlassen</a>, beim <a href=\"http://dimsemenov.com/subscribe.html\">Newsletter</a> anmelden um Neuigkeiten zum Theme zu erhalten oder <a href=\"http://twitter.com/dimsemenov\">auf Twitter folgen</a>."
+
+#: admin/admin-functions.php:44
+#@ dsframework
+msgid "<h2>Congratulations, Touchfolio theme installed!</h2><p style=\\\"font-size: 15px; line-height: 20px \\\">Theme is currently in beta and may contain bugs, please <a href=\\\"http://support.dimsemenov.com/forums/159023-touchfolio\\\">vote for features and report bugs</a>.<br/>To get notified about complete theme release, follow me on <a href=\\\"http://twitter.com/dimsemenov\\\">Twitter</a> or <a href=\\\"http://dimsemenov.com/subscribe.html\\\">join my email newsletter</a> (unsubscribe at any time, MailChimp).</p>"
+msgstr "<h2>Glückwunsch, Touchfolio wurde erfolgreich installiert!</h2><p style=\\\"font-size: 15px; line-height: 20px \\\">Das Theme ist befindet sich momentan in der beta-Phase und kann Fehler enthalten, bitte <a href=\\\"http://support.dimsemenov.com/forums/159023-touchfolio\\\">vote für Features und melde Bugs</a>.<br/>Um zu erfahren wann das Theme fertig ist, folge mir auf <a href=\\\"http://twitter.com/dimsemenov\\\">Twitter</a> oder <a href=\\\"http://dimsemenov.com/subscribe.html\\\">melde Dich beim Newsletter an</a> (Abmeldung jeder Zeit, MailChimp).</p>"
+
+#: admin/admin-interface.php:97
+#@ dsframework
+msgid " Theme Options"
+msgstr "Theme-Optionen"
+
+#: admin/admin-interface.php:98
+#: inc/gallery-manage.php:270
+#@ dsframework
+msgid "<p style=\"font-size: 14px; line-height: 20px \">Please note, theme is currently in beta and may some issues, please <a href=\"http://support.dimsemenov.com/forums/159023-touchfolio\">vote for new features and report bugs</a>.<br/>To get notified about complete theme release, follow me on <a href=\"http://twitter.com/dimsemenov\">Twitter</a> or <a href=\"http://dimsemenov.com/subscribe.html\">join my email newsletter</a> (unsubscribe at any time, MailChimp).</p>"
+msgstr "<p style=\"font-size: 14px; line-height: 20px \">Bitte beachten: Das Theme ist befindet sich momentan in der beta-Phase und kann Fehler enthalten, bitte <a href=\\\"http://support.dimsemenov.com/forums/159023-touchfolio\\\">vote für Features und melde Bugs</a>.<br/>Um zu erfahren wann das Theme fertig ist, folge mir auf <a href=\\\"http://twitter.com/dimsemenov\\\">Twitter</a> oder <a href=\\\"http://dimsemenov.com/subscribe.html\\\">melde Dich beim Newsletter an</a> (Abmeldung jeder Zeit, MailChimp).</p>"
+
+#: admin/admin-interface.php:108
+#: admin/admin-interface.php:125
+#@ default
+msgid "Save All Changes"
+msgstr "Alle Änderungen speichern"
+
+#: admin/admin-interface.php:126
+#@ default
+msgid "Reset All Options"
+msgstr "Alle Optionen zurücksetzen"
+
+#: admin/admin-interface.php:594
+#@ default
+msgid "Click OK to backup your current saved options."
+msgstr "OK klicken um ein Backup der momentan gespeicherten Optionen zu erstellen."
+
+#: admin/admin-interface.php:641
+#@ default
+msgid "Warning: All of your current options will be replaced with the data from your last backup! Proceed?"
+msgstr "Warnung: Alle jetzigen Einstellungen werden mit den Daten von Deinem letzten Backup überschrieben! Fortfahren?"
+
+#: admin/admin-interface.php:730
+#@ default
+msgid "Click OK to reset. All settings will be lost!"
+msgstr "OK klicken zum Zurücksetzen. Alle Einstellungen gehen verloren!"
+
+#: admin/admin-interface.php:1290
+#@ default
+msgid "Last Backup : "
+msgstr "Letztes Backup: "
+
+#: admin/medialibrary-uploader.php:18
+#@ default
+msgid "Options"
+msgstr "Optionen"
+
+#: admin/medialibrary-uploader.php:210
+#: admin/theme-options.php:131
+#: inc/gallery-manage.php:143
+#@ optionsframework
+#@ dsframework
+msgid "Gallery"
+msgstr "Gallerie"
+
+#: admin/medialibrary-uploader.php:210
+#@ optionsframework
+msgid "Previously Uploaded"
+msgstr "Zuvor hochgeladen"
+
+#: admin/theme-options.php:72
+#@ dsframework
+msgid "General Settings"
+msgstr "Grundeinstellungen"
+
+#: admin/theme-options.php:75
+#@ dsframework
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/theme-options.php:76
+#@ dsframework
+msgid "Main logo image. Default size is 97px x 16px. If blank site title text will be used.<br/>Size and position on different screen sizes and pages may be configured in selected skin less css file."
+msgstr "Logo-Bild. Default-Größe ist 97px x 16px. Wenn Du das Feld freilässt wird der Seitentitel dargestellt.<br/>Größe und Position für unterschiedliche Bildschirmgrößen und Seiten können in der ausgewählten Skin LESS-CSS Datei angepasst werden."
+
+#: admin/theme-options.php:84
+#@ dsframework
+msgid "Tracking Code"
+msgstr "Tracking Code"
+
+#: admin/theme-options.php:85
+#@ dsframework
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr "Füge hier Deinen Google Analytics (oder einen anderen) Tracking Code ein; er wird zum Footer-Template Deines Themes hinzugefügt."
+
+#: admin/theme-options.php:90
+#@ dsframework
+msgid "Favicon"
+msgstr "Favicon"
+
+#: admin/theme-options.php:91
+#@ dsframework
+msgid "16px x 16px ico/png/gif image that will represent your website's favicon."
+msgstr "16px x 16px ico/png/gif Bilddatei, die Dein Website-Favicon enthält."
+
+#: admin/theme-options.php:102
+#@ dsframework
+msgid "Footer Text"
+msgstr "Fußzeilen-Text"
+
+#: admin/theme-options.php:103
+#@ dsframework
+msgid "Text in footer. Height of footer may be configured in selected skin less css file. Leaving 'Powered by Touchfolio' text is not required, but much appreciated and keeps project alive. "
+msgstr "Text in der Fußzeile. Die Höhe der Fußzeile kann in der ausgewählten Skin-LESS-CSS-Datei angepasst werden. Der 'Powered by Touchfolio'-Text ist keine Pflicht aber sehr willkommen und trägt zum Weiterleben des Projektes bei."
+
+#: admin/theme-options.php:108
+#@ dsframework
+msgid "Google Fonts Code"
+msgstr "Google Fonts Code"
+
+#: admin/theme-options.php:109
+#@ dsframework
+msgid "Google webfont code (or any other), will be inserted in site header. Example: <code>&lt;link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,600,400italic' rel='stylesheet' type='text/css'&gt;</code>. Get it <a href='http://www.google.com/webfonts'>here</a>. Theme font can be changed in selected skin less css file."
+msgstr "Google Webfont Code (oder anderer), wird zum Seitenkopf hinzugefügt. Beispiel: <code>&lt;link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,600,400italic' rel='stylesheet' type='text/css'&gt;</code>. Den Code für Google Webfonts gibt es <a href='http://www.google.com/webfonts'>hier</a>. Der Theme-Font kann in der Skin-LESS-CSS-Datei geändert werden."
+
+#: admin/theme-options.php:114
+#@ dsframework
+msgid "Skin File"
+msgstr "Skin-Datei"
+
+#: admin/theme-options.php:115
+#@ dsframework
+msgid "Theme skin less file."
+msgstr "Theme-Skin LESS-CSS-Datei."
+
+#: admin/theme-options.php:121
+#@ dsframework
+msgid "Facebook admin id"
+msgstr "Facebook Administrator ID"
+
+#: admin/theme-options.php:122
+#@ dsframework
+msgid "Facebook admin id. Leave empty if you don't need any tracking of sharing."
+msgstr "Facebook Administrator ID. Freilassen wenn Du kein Tracking für Facebook-Sharing benötigst."
+
+#: admin/theme-options.php:135
+#@ dsframework
+msgid "Album categories in gallery page"
+msgstr "Album-Kategorien auf der Gallerie-Seite"
+
+#: admin/theme-options.php:136
+#@ dsframework
+msgid "Comma separated album categories to be displayed in galleries page template (usually home page). Leave empty to display all."
+msgstr "Komma-getrennte Liste der Album-Kategorien, die auf der Gallerie-Seite (meistens die Homepage) dargestellt werden sollen. Freilassen, um alle anzuzeigen."
+
+#: admin/theme-options.php:142
+#@ dsframework
+msgid "Default Background Color"
+msgstr "Default-Hintergrundfarbe"
+
+#: admin/theme-options.php:143
+#@ dsframework
+msgid "Select default album color, you can override it in album settings for specific album."
+msgstr "Default-Hintergrundfarbe auswählen, kann in den Album-spezifischen Einstellungen verändert werden."
+
+#: admin/theme-options.php:148
+#@ dsframework
+msgid "Default Background Pattern"
+msgstr "Default-Hintergrundmuster"
+
+#: admin/theme-options.php:149
+#@ dsframework
+msgid "Enter full URL to default album pattern, you can override it in album settings for specific album. Or leave empty, if you need just color."
+msgstr "URL zum Default-Hintergrundmuster eingeben, kann in den Album-Einstellungen für ein spezifisches Album überschrieben werden. Freilassen, wenn Du nur die Hintergrundfarbe benötigst."
+
+#: admin/theme-options.php:154
+#@ dsframework
+msgid "Default Image Scale Mode"
+msgstr "Default Bild-Skalierung"
+
+#: admin/theme-options.php:155
+#@ dsframework
+msgid "Select how images will resize. This is default value, you can override it in album settings."
+msgstr "Auswählen wie Galleriebilder skaliert werden. Dies ist die Default-Einstellung, kann in den Album-Einstellungen verändert werden."
+
+#: admin/theme-options.php:160
+#: inc/gallery-manage.php:224
+#: inc/gallery-manage.php:322
+#@ dsframework
+msgid "Fit in area"
+msgstr "Einpassen"
+
+#: admin/theme-options.php:161
+#: inc/gallery-manage.php:223
+#: inc/gallery-manage.php:323
+#@ dsframework
+msgid "Fill the area"
+msgstr "Ausfüllen"
+
+#: admin/theme-options.php:162
+#: inc/gallery-manage.php:225
+#: inc/gallery-manage.php:324
+#@ dsframework
+msgid "Don't scale"
+msgstr "Nicht skalieren"
+
+#: admin/theme-options.php:165
+#@ dsframework
+msgid "Gallery Image Size"
+msgstr "Galleriebild-Größe"
+
+#: admin/theme-options.php:166
+#@ dsframework
+msgid "WordPress image size for gallery images. Can be large, medium, or any other image size type. You'll need to resave all existing galleries if you change this."
+msgstr "WordPress Bildgröße für Galleriebilder. Kann groß, mittel oder jeder andere Bildgrößen-Typ sein. Du musst alle bereits vorhandenen Gallerien neu speichern, wenn Du diese Einstellung änderst."
+
+#: admin/theme-options.php:171
+#@ dsframework
+msgid "Auto-open project description"
+msgstr "Automatisches Öffnen der Projektbeschreibung"
+
+#: admin/theme-options.php:172
+#@ default
+msgid "Automatically open project description on first image of every album."
+msgstr "Automatisches Öffnen der Projektbeschreibung zum ersten Bild jedes Albums."
+
+#: archive.php:22
+#, php-format
+#@ dsframework
+msgid "Category Archives: %s"
+msgstr "Archiv der Kategorie: %s"
+
+#: archive.php:25
+#, php-format
+#@ dsframework
+msgid "Tag Archives: %s"
+msgstr "Schlagwort-Archive: %s"
+
+#: archive.php:32
+#, php-format
+#@ dsframework
+msgid "Author Archives: %s"
+msgstr "Archiv des Autors: %s"
+
+#: archive.php:40
+#, php-format
+#@ dsframework
+msgid "Daily Archives: %s"
+msgstr "Archiv für den Tag %s"
+
+#: archive.php:43
+#, php-format
+#@ dsframework
+msgid "Monthly Archives: %s"
+msgstr "Archiv für den Monat %s"
+
+#: archive.php:46
+#, php-format
+#@ dsframework
+msgid "Yearly Archives: %s"
+msgstr "Archiv für das Jahr %s"
+
+#: archive.php:49
+#@ dsframework
+msgid "Archives"
+msgstr "Archiv"
+
+#: archive.php:93
+#: search.php:24
+#@ dsframework
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: archive.php:97
+#@ dsframework
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Entschuldige bitte, aber das was du gesucht hast, konnte nicht gefunden werden. Vielleicht hilft die Suchfunktion um das Gewünschte zu finden."
+
+#: comments.php:17
+#@ dsframework
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dieser Beitrag ist passwortgeschützt. Um Kommentare anschauen zu können musst du das Passwort angeben."
+
+#: comments.php:29
+#@ dsframework
+msgid "Comments"
+msgstr "Kommentare"
+
+#: comments.php:46
+#@ dsframework
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: comments.php:47
+#@ dsframework
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:48
+#@ dsframework
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:58
+#@ dsframework
+msgid "Comments are closed."
+msgstr "Die Kommentarfunktion ist geschlossen."
+
+#: comments.php:64
+#@ dsframework
+msgid "Name <span class=\"required-field-label\">(required)</span>"
+msgstr "Name <span class=\"required-field-label\">(erforderlich)</span>"
+
+#: comments.php:65
+#@ dsframework
+msgid "Email <span class=\"required-field-label\">(required, will not be published)</span>"
+msgstr "Email <span class=\"required-field-label\">(erforderlich, wird nicht veröffentlicht)</span>"
+
+#: comments.php:66
+#@ dsframework
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:68
+#@ dsframework
+msgid "cancel reply"
+msgstr "Antwort abbrechen"
+
+#: comments.php:76
+#@ default
+msgctxt "noun"
+msgid "Comment"
+msgstr "Kommentar"
+
+#: content-page.php:16
+#: content-single.php:18
+#: content.php:24
+#: image.php:79
+#@ dsframework
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-single.php:23
+#@ dsframework
+msgid "Tagged: "
+msgstr "Verschlagwortet mit:"
+
+#: content.php:9
+#, php-format
+#@ dsframework
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+#: content.php:23
+#@ dsframework
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: ds-gallery-masonry-template.php:52
+#@ dsframework
+msgid "Album images not found."
+msgstr "Keine Album-Bilder gefunden."
+
+#: functions.php:159
+#@ dsframework
+msgid "Primary Menu"
+msgstr "Primäres Menü"
+
+#: functions.php:163
+#@ dsframework
+msgid "Social Links Menu"
+msgstr "Social Links Menü"
+
+#: functions.php:175
+#@ dsframework
+msgid "Regular Page Sidebar"
+msgstr "Sidebar auf regulären Seiten"
+
+#: functions.php:210
+#@ dsframework
+msgid "Next project"
+msgstr "Nächstes Projekt"
+
+#: functions.php:211
+#@ dsframework
+msgid "Prev project"
+msgstr "Vorheriges Projekt"
+
+#: functions.php:212
+#@ dsframework
+msgid "close info"
+msgstr "Schliessen"
+
+#: functions.php:213
+#@ dsframework
+msgid "Click and drag in any direction to browse."
+msgstr "Klicken und ziehen um zu Navigieren."
+
+#: functions.php:214
+#@ dsframework
+msgid "Next image"
+msgstr "Nächstes Bild"
+
+#: functions.php:215
+#@ dsframework
+msgid "close video"
+msgstr "Schliessen"
+
+#: functions.php:216
+#@ dsframework
+msgid "Prev image"
+msgstr "Vorheriges Bild"
+
+#: functions.php:217
+#@ dsframework
+msgid "&larr; back to list"
+msgstr "&larr; Zurück zur Übersicht"
+
+#: functions.php:218
+#@ dsframework
+msgid "Swipe up"
+msgstr "Swipe nach oben"
+
+#: functions.php:219
+#@ dsframework
+msgid "Swipe down"
+msgstr "Swipe nach unten"
+
+#: functions.php:231
+#@ dsframework
+msgid "&mdash; Select page &mdash;"
+msgstr "&mdash; Seite auswählen &mdash;"
+
+#: functions.php:232
+#@ dsframework
+msgid "&mdash;"
+msgstr "&mdash;"
+
+#: functions.php:233
+#@ dsframework
+msgid "menu"
+msgstr "Menü"
+
+#: functions.php:280
+#: inc/gallery-manage.php:90
+#@ dsframework
+msgid "Add to album"
+msgstr "Zum Album hinzufügen"
+
+#: functions.php:281
+#@ dsframework
+msgid "Adding..."
+msgstr "Füge hinzu…"
+
+#: functions.php:282
+#@ dsframework
+msgid "Inserting error. Please try again."
+msgstr "Fehler beim Einfügen. Bitte erneut versuchen."
+
+#: functions.php:283
+#@ dsframework
+msgid "Added"
+msgstr "Hinzugefügt"
+
+#: header.php:14
+#, php-format
+#@ ds-framework
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: header.php:56
+#@ dsframework
+msgid "home"
+msgstr "Startseite"
+
+#: header.php:79
+#@ dsframework
+msgid "Primary menu is not selected and/or created. Please go to \"Appearance &rarr; Menus\" and setup menu."
+msgstr "Das primäre Menü ist nicht ausgewählt und/oder angelegt. Bitte gehe zu \"Design &rarr; Menüs\" und lege erstelle ein Menu oder aktualisiere die Einstellungen."
+
+#: image.php:20
+#, php-format
+#@ dsframework
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Veröffentlicht <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> mit <a href=\"%3$s\" title=\"Link zum Originalbild\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Zurück zu %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:30
+#: image.php:93
+#@ dsframework
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: image.php:33
+#@ dsframework
+msgid "&larr; Previous"
+msgstr "&larr; Zurück"
+
+#: image.php:34
+#@ dsframework
+msgid "Next &rarr;"
+msgstr "Weiter &rarr;"
+
+#: image.php:85
+#, php-format
+#@ dsframework
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Kommentar </a> oder <a class=\"trackback-link\" href=\"%s\" title=\"Trackback-URL\" rel=\"trackback\">Trackback</a> hinterlassen."
+
+#: image.php:87
+#, php-format
+#@ dsframework
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Kommentare sind geschlossen, aber Du kannst einen Trackback hinterlassen: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:89
+#@ dsframework
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Trackbacks sind geschlossen, aber Du kannst einen <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Kommentar hinterlassen</a>."
+
+#: image.php:91
+#@ dsframework
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Sowohl Kommentare als auch Trackbacks sind momentan geschlossen."
+
+#: inc/gallery-manage.php:114
+#@ default
+msgctxt "dsframework"
+msgid "Gallery_Categories"
+msgstr "Gallerie-Kategorien"
+
+#: inc/gallery-manage.php:115
+#@ default
+msgctxt "dsframework"
+msgid "Gallery Category"
+msgstr "Gallerie-Kategorie"
+
+#: inc/gallery-manage.php:116
+#@ default
+msgctxt "dsframework"
+msgid "Search Gallery Categories"
+msgstr "Gallerie-Kategorien durchsuchen"
+
+#: inc/gallery-manage.php:117
+#@ default
+msgctxt "dsframework"
+msgid "Popular Gallery Categories"
+msgstr "Oft verwendete Gallerie-Kategorien"
+
+#: inc/gallery-manage.php:118
+#@ default
+msgctxt "dsframework"
+msgid "All Gallery Categories"
+msgstr "Alle Gallerie-Kategorien"
+
+#: inc/gallery-manage.php:119
+#@ default
+msgctxt "dsframework"
+msgid "Parent Gallery Category"
+msgstr "Eltern-Gallerie-Kategorie"
+
+#: inc/gallery-manage.php:120
+#@ default
+msgctxt "dsframework"
+msgid "Parent Gallery Category:"
+msgstr "Eltern-Gallerie-Kategorie:"
+
+#: inc/gallery-manage.php:121
+#@ default
+msgctxt "dsframework"
+msgid "Edit Gallery Category"
+msgstr "Gallerie-Kategorie bearbeiten"
+
+#: inc/gallery-manage.php:122
+#@ default
+msgctxt "dsframework"
+msgid "Update Gallery Category"
+msgstr "Gallerie-Kategorie aktualisieren"
+
+#: inc/gallery-manage.php:123
+#@ default
+msgctxt "dsframework"
+msgid "Add New Gallery Category"
+msgstr "Neue Gallerie-Kategorie"
+
+#: inc/gallery-manage.php:124
+#@ default
+msgctxt "dsframework"
+msgid "New Gallery Category Name"
+msgstr "Name der neuen Gallerie-Kategorie"
+
+#: inc/gallery-manage.php:125
+#@ default
+msgctxt "dsframework"
+msgid "Separate gallery categories with commas"
+msgstr "Trenne mehrere Gallerie-Kategorien mit einem Komma"
+
+#: inc/gallery-manage.php:126
+#@ default
+msgctxt "dsframework"
+msgid "Add or remove gallery categories"
+msgstr "Gallerie-Kategorien anlegen oder entfernen"
+
+#: inc/gallery-manage.php:127
+#@ default
+msgctxt "dsframework"
+msgid "Choose from the most used gallery categories"
+msgstr "Aus den meistbenutzten Gallerie-Kategorien auswählen"
+
+#: inc/gallery-manage.php:128
+#@ default
+msgctxt "dsframework"
+msgid "Gallery Categories"
+msgstr "Gallerie-Kategorien"
+
+#: inc/gallery-manage.php:144
+#@ dsframework
+msgid "Album"
+msgstr "Album"
+
+#: inc/gallery-manage.php:145
+#: inc/gallery-manage.php:146
+#@ dsframework
+msgid "Add New Album"
+msgstr "Album hinzufügen"
+
+#: inc/gallery-manage.php:147
+#@ dsframework
+msgid "Edit Album"
+msgstr "Album bearbeiten"
+
+#: inc/gallery-manage.php:148
+#@ default
+msgid "View Album"
+msgstr "Album ansehen"
+
+#: inc/gallery-manage.php:149
+#@ dsframework
+msgid "New Album"
+msgstr "Neues Album"
+
+#: inc/gallery-manage.php:150
+#@ dsframework
+msgid "Search Albums"
+msgstr "Alben durchsuchen"
+
+#: inc/gallery-manage.php:151
+#@ dsframework
+msgid "Albums not found"
+msgstr "Keine Alben gefunden"
+
+#: inc/gallery-manage.php:152
+#@ dsframework
+msgid "Albums not found in trash"
+msgstr "Keine Alben im Papierkorb gefunden"
+
+#: inc/gallery-manage.php:190
+#@ dsframework
+msgid "Remove item"
+msgstr "Eintrag entfernen"
+
+#: inc/gallery-manage.php:204
+#@ dsframework
+msgid "Video URL (YouTube or Vimeo)"
+msgstr "Video-URL (YouTube oder Vimeo)"
+
+#: inc/gallery-manage.php:220
+#: inc/gallery-manage.php:319
+#@ dsframework
+msgid "Image scale mode"
+msgstr "Bild-Skalierung"
+
+#: inc/gallery-manage.php:222
+#@ dsframework
+msgid "Default (from gallery settings)"
+msgstr "Default (geerbt von den Gallerie-Einstellungen)"
+
+#: inc/gallery-manage.php:233
+#@ dsframework
+msgid "Alt attribute"
+msgstr "Alt-Attribut"
+
+#: inc/gallery-manage.php:302
+#@ dsframework
+msgid "This album does not contain any images yet.<br/> Click button below to add some."
+msgstr "Dieses Album enthält noch keine Bilder.<br/> Klicke auf den untenstehenden Button um welche hinzuzufügen."
+
+#: inc/gallery-manage.php:308
+#@ dsframework
+msgid "Add Images"
+msgstr "Bilder hinzufügen"
+
+#: inc/gallery-manage.php:321
+#@ dsframework
+msgid "Default (from global gallery settings)"
+msgstr "Default (geerbt von den globalen Gallerie-Einstellungen)"
+
+#: inc/gallery-manage.php:329
+#@ dsframework
+msgid "Album background color"
+msgstr "Album Hintergrundfarbe"
+
+#: inc/gallery-manage.php:333
+#: inc/gallery-manage.php:340
+#@ dsframework
+msgid "Leave empty for default"
+msgstr "Freilassen für Default-Einstellung"
+
+#: inc/gallery-manage.php:336
+#@ dsframework
+msgid "Album background pattern URL (optional)"
+msgstr "Album Hintergrund-Muster URL (optional)"
+
+#: inc/template-tags.php:39
+#@ dsframework
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ältere Beiträge"
+
+#: inc/template-tags.php:43
+#@ dsframework
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Beiträge <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:68
+#@ dsframework
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:68
+#: inc/template-tags.php:91
+#@ dsframework
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: inc/template-tags.php:88
+#, php-format
+#@ dsframework
+msgid "%1$s at %2$s "
+msgstr "%1$s um %2$s"
+
+#: inc/template-tags.php:90
+#@ dsframework
+msgid "Comment permalink"
+msgstr "Permalink zum Kommentar"
+
+#: inc/template-tags.php:95
+#@ dsframework
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar muss noch moderiert werden."
+
+#: inc/template-tags.php:120
+#, php-format
+#@ dsframework
+msgid "<span class=\"byline\">by <span class=\"author vcard\"><span class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</span></span></span> &middot; <time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time>"
+msgstr "<span class=\"byline\">von <span class=\"author vcard\"><span class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</span></span></span> &middot; <time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time>"
+
+#: inc/template-tags.php:126
+#, php-format
+#@ dsframework
+msgid "View all posts by %s"
+msgstr "Zeige alle Beiträge von %s"
+
+#: inc/template-tags.php:131
+#@ _s
+msgid "leave a comment"
+msgstr "Kommentar hinterlassen"
+
+#: inc/template-tags.php:131
+#@ _s
+msgid "1 comment"
+msgstr "1 Kommentar"
+
+#: inc/template-tags.php:131
+#@ _s
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: index.php:26
+#@ dsframework
+msgid "No posts to display"
+msgstr "Keine Beiträge zum Anzeigen"
+
+#: index.php:29
+#, php-format
+#@ dsframework
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit Deinen ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Hier lang</a>."
+
+#: search.php:14
+#, php-format
+#@ dsframework
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: search.php:28
+#@ dsframework
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Entschuldige bitte, zu Deiner Suche wurden keine Ergebnisse gefunden. Bitte versuche es mit anderen Suchbegriffen."
+
+#: update-notifier.php:71
+#@ dsframework
+msgid "Touchfolio Theme Update"
+msgstr "Touchfolio Theme-Update"
+
+#: update-notifier.php:72
+#@ dsframework
+msgid "<strong>There is a new version of Touchfolio theme available.</strong> Visit <a style=\"text-decoration:underline;\" href=\"http://dimsemenov.com/themes/touchfolio/changelog.html\">changelog page</a> to see what's new and how to update."
+msgstr "<strong>Eine neue Version des Touchfolio-Themes steht zur Verfügung.</strong> Besuche die <a style=\"text-decoration:underline;\" href=\"http://dimsemenov.com/themes/touchfolio/changelog.html\">Changelog-Seite</a> um zu sehen was neu ist und wie Du updaten kannst."
+
+#: update-notifier.php:75
+#@ dsframework
+msgid "<strong>Please note:</strong> make a backup of Touchfolio theme inside your WordPress installation folder <strong>"
+msgstr "<strong>Bitte beachten:</strong> Mache ein Backup von deinem Touchfolio-Theme im Ordner Deiner WordPress-Installation <strong>"
+
